@@ -1,1 +1,1 @@
-# Smapleargocd
+# sampleargocd
